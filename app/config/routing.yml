@@ -1,0 +1,8 @@
+rr_magazine:
+    resource: "@rrMagazineBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: @AppBundle/Controller/
+    type:     annotation

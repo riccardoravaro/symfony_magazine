@@ -1,0 +1,831 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"respon",
+				"response_json"
+			],
+			[
+				"ro",
+				"rombus_top"
+			],
+			[
+				"image",
+				"image_mobile"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"ge",
+				"getting_started_size"
+			],
+			[
+				"g",
+				"getting_started_size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"tra",
+				"translateY"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"ac",
+				"active_class"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"co",
+				"color_style"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"ca",
+				"campaign"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"bg",
+				"bg-fixed-image"
+			],
+			[
+				"campa",
+				"campaignid"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"font-siz",
+				"font-size-small"
+			],
+			[
+				"list-t",
+				"list-style"
+			],
+			[
+				"sele",
+				"selectedServices"
+			],
+			[
+				"se",
+				"search_type"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"r-tabs-",
+				"r-tabs-panel"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"conte",
+				"content-wrapper"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"re",
+				"respond-to"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"cla",
+				"class_names"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"link",
+				"link_text"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"field",
+				"field_name"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"rp",
+				"rombus-pink-left"
+			],
+			[
+				"rom",
+				"rombus-pink-right"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"comp",
+				"components_page"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/config/config.yml",
+			"settings":
+			{
+				"buffer_size": 2087,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"s",
+				"SassBeautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ppackage",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/riccardo/Documents/web/riccardoravaro.com/docker-entrypoint.sh",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/app/Resources/views/security/login.html.twig",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/src/AppBundle/Tests/Controller/DefaultControllerTest.php",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/src/AppBundle/Controller/SecurityController.php",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/app/config/routing.yml",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/app/config/security.yml",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/app/config/parameters.yml",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/README.md",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/notes.md",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/src/AppBundle/Security/User",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/src/AppBundle/Security/User/WebserviceUser.php",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/bourbon/functions/_modular-scale.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/variables/_variables.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/theme.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/_variables.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/components/_u-island.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/base/_base.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/neat/settings/_visual-grid.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/components/_canvas.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/components/_s2.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/base/_typography.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/components/_style.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/base/_grid-settings.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/app/Resources/views/default/intro.html.twig",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/app/Resources/views/default/index.html.twig",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/Gruntfile.js",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/app/src/page/controller/controller.js",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/js/script.js",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/components/_lightsliders.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/components/_video.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/base/_variables.scss",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/Dockerfile",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/config.php",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/config.rb",
+		"/Users/riccardo/Documents/web/riccardoravaro.com/web/js/particle-network.min.js",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/header-head.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/header-nav.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/domain_list.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/dlm-ninja-forms/classes/class-dlm-nf-ninja-forms-handler.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/functions.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/success_stories.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/domain_search/case3.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-admin/admin-header.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/success_story.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/dlm-ninja-forms/classes/class-dlm-nf-constants.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/dlm-ninja-forms/classes/class-dlm-nf-access-manager.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/custom-fields/acf_fields.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/item.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/public/shortcode_views/domain-search-public-display.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/public/shortcode_views/get-a-domain-public-display.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/domain_search.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/articletile-page.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/domain-half.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/domain.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/public/ajax/class-NominetWhois.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/dlm-ninja-forms/classes/class-dlm-nf-settings.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/dlm-ninja-forms/README.md",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/public/class-nominet-domain-tools-public.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/includes/class-nominet-domain-tools.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/admin/class-nominet-domain-tools-admin.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/public/shortcode_views/uk-rights-lookup-public-display.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/public/shortcode_views/renew-domain-display.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/c1.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/public/old/old_functions.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/footer-nav.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/item/item-step.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/angular/app/js/controllers/getadomain.js",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/hero/getting_started.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/sections.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-config.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/.htaccess",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/acp-php-recovery/acp-php-recovery.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/public/ajax/get-a-domain-ajax.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/attachment.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss/components/_hero-image.scss",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/page-blog.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/blog-archive.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/page.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/scripts/beta.sh",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/angular/app/js/controllers/pageCtr.js",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/angular/app/js/services/index.js",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/angular/app/views/directives/registrarsDrv.html",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/angular/app/views/stepModal.html",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/angular/app/views/registrarModal.html",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/angular/app/js/services/getadomainsrv.js",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/modules/components/public/class-components-public.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/header.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/js/scripts-concat.js",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/js/scripts.js",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/Gruntfile.js",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/angular/gulp/config.js",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/angular/app/views/youtube.html",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-includes/plugin.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/scripts/dev.sh",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/loop.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/404.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/modules/custom-menu/custom-menu.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/config.rb",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/category.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/archive.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/scripts/prod.sh",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/.gitignore",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-settings.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/searchform.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/footer.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/search.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/public/js/uk-rights-lookup.js",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/scripts.js",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/sitemap.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components/campaign-single.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/index.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/getadomain.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss/components/_slider.scss",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/modules/components/components.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/modules/components/admin/class-components-admin.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/angular/gulpfile.babel.js",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress-develop/src/wp-includes/category-template.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/tag.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/pagination.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/blogside-page.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/blogselect-page.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/nominet-domain-tools.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-includes/category-template.php",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss/components/_button_more.scss",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss/components/_domain_list.scss",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss/components/_domain_search.scss",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss/components/_sections.scss",
+		"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss/base/responsiveTabs/_responsiveTabs.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass",
+			"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass/neat",
+			"/Users/riccardo/Documents/web/riccardoravaro.com/web/sass",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/dlm-ninja-forms",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/angular/app/js/controllers",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/js/angular/app/js",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain",
+			"/Users/riccardo/Documents/web/theukdomain/www",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/components",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/public",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content",
+			"/Users/riccardo/Documents/web/theukdomain",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools",
+			"/Users/riccardo/Documents/web/theukdomain/www",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-campaign",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools/public",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-domain-tools",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/nominet-campaign",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain",
+			"/Users/riccardo/Documents/web/theukdomain",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/menu-fields",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/modules/components",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/modules/posts-to-posts",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/modules/advanced-custom-fields",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/modules/posts-to-posts",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/modules/advanced-custom-fields",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/modules/posts-to-posts",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/modules/components",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/plugins/posts-to-posts",
+			"/Users/riccardo/Documents/web/theukdomain",
+			"/Users/riccardo/Documents/web/theukdomain/www/wordpress/wp-content/themes/theukdomain/library/src/scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".title",
+			"visual-grid",
+			"visual",
+			"$green",
+			"compass",
+			"modular-scale",
+			"nt-family;\n  font-size: ",
+			"$ip",
+			"wp_query",
+			"video",
+			"ajaxurl",
+			"get_template_directory_uri",
+			"COOKIE",
+			"_dlm-nf-cookie",
+			"setcookie",
+			" setcookie",
+			"META_FORM",
+			"response_json",
+			"getDomainExpiryDate",
+			"response_json",
+			"getDomainExpiryDate",
+			"domainIsExpired",
+			" col-xs-12 col-sm-12 col-md-12 col-lg-5",
+			"renewa",
+			"getadomain",
+			"renewdomain_ajax",
+			"getadomain",
+			"getad",
+			"v-half-pod",
+			"getDomainExpiryDate",
+			"domainExpireSoon",
+			"getDomainExpiryDate",
+			"domainIsExpired",
+			"domainExpireSoon",
+			"getDomainExpiryDate",
+			"isDomainAvailable",
+			"prepareWhoisOutput",
+			"domainExpireSoon",
+			"domainIsExpired",
+			"getDomainExpiryDate",
+			"prepareWhoisOutput",
+			"isDomainAvailable",
+			"params",
+			"sanitizeDomain",
+			"full-text",
+			"full-",
+			"stra",
+			"strai",
+			"straigh",
+			"straight",
+			"straight-option",
+			"input",
+			"<?php the_field('page_link');?>",
+			"page_link",
+			"back",
+			"background: $pink",
+			"background: #ed145b; ",
+			"find-domain",
+			"rombus-pink-right",
+			"domainUnavailable",
+			"side",
+			"scripts-concat.",
+			"scripts",
+			"npm run",
+			"openRegistrarWebsite",
+			"launchRegistrar",
+			"domain",
+			"not-top",
+			"theukdomain_scripts",
+			"theukdomain",
+			"script",
+			"class=\"bg-<?php echo $id?>",
+			"$image[url]",
+			"id",
+			"jQuery(",
+			"jQuery(document",
+			"$(document)",
+			"<div class=\"overlapblackbg\">",
+			"fontawesome-webfont.woff",
+			"fontawesome-webfont",
+			"jquery-migrate",
+			"jquery-migrate.min.js",
+			"opacity-0",
+			"full-text",
+			"full=text",
+			"text",
+			"USE_LOCAL_ACF_CONFIGURATION",
+			"recover",
+			"colored",
+			"my_css_attributes_filter",
+			"nav_menu_css_class",
+			"li",
+			"manu",
+			"data-p",
+			"background: #e9e7e7;",
+			"dmclass",
+			"lookup",
+			"search",
+			"<!-- article -->",
+			"<!-- section -->",
+			"<section",
+			"article",
+			"straight-option",
+			"domain-studio",
+			"ajax-search",
+			"straight-option",
+			"stra",
+			" straight-option",
+			"v-half-pod",
+			"v-half-pod ",
+			"slide",
+			"<a",
+			"r-tabs-accordion-title",
+			"showmore",
+			"v-half-pod ",
+			"hero-image a",
+			"full-text",
+			"attributes",
+			"output",
+			"class_names",
+			"attributes",
+			"<A",
+			"menu",
+			"nav",
+			"ul",
+			"getting-started",
+			" getting-started",
+			"y-on-scroll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/<?php the_field('page_link');?>",
+			"class=\"bg bg-<?php echo $id?>",
+			"$image['url']",
+			".domains",
+			"this.container",
+			"class-NominetWhois.php",
+			"dripicons",
+			"components",
+			"../fonts/gothamlight",
+			"../fonts/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/config/config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2087,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sandbox.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 354.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
