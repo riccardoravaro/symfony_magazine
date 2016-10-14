@@ -21,6 +21,10 @@
                 <th>Cover</th>
                 <td>{{ entity.cover }}</td>
             </tr>
+            <tr>
+                <th>File</th>
+                <td><img src="{{ asset('uploads/covers/' ~ entity.cover)}}" ></td>
+            </tr>
         </tbody>
     </table>
 

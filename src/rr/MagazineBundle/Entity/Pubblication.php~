@@ -3,7 +3,8 @@
 namespace rr\MagazineBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
-use Doctrine\Common\Collections\ArrayCollections;
+use Doctrine\Common\Collections\ArrayCollection;
+
 
 /**
  * Pubblication
@@ -72,5 +73,48 @@ class Pubblication
     public function getName()
     {
         return $this->name;
+    }
+
+    /**
+     * Add issues
+     *
+     * @param \rr\MagazineBundle\Entity\Issue $issues
+     * @return Pubblication
+     */
+    public function addIssue(\rr\MagazineBundle\Entity\Issue $issues)
+    {
+        $this->issues[] = $issues;
+
+        return $this;
+    }
+
+    /**
+     * Remove issues
+     *
+     * @param \rr\MagazineBundle\Entity\Issue $issues
+     */
+    public function removeIssue(\rr\MagazineBundle\Entity\Issue $issues)
+    {
+        $this->issues->removeElement($issues);
+    }
+
+    /**
+     * Get issues
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getIssues()
+    {
+        return $this->issues;
+    }
+
+    /**
+     * Render a Publication as a string.
+     * 
+     * @return string
+     */
+
+    public function __toString(){
+        return $this->getName();
     }
 }

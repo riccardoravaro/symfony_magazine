@@ -5,7 +5,7 @@ namespace rr\MagazineBundle\Entity;
 use Doctrine\ORM\Mapping as ORM;
 use Doctrine\Common\Collections\ArrayCollection;
 use Symfony\Component\Validator\Constraints as Assert;
-use Symfony\Component\HttpFoundation\File\UploadedFile
+use Symfony\Component\HttpFoundation\File\UploadedFile;
 
 /**
  * Issue
@@ -55,6 +55,12 @@ class Issue
      */
     private $cover;
 
+    
+
+    public function __construct()
+    {
+       // $this->logger = $this->get('logger');
+    }
 
     /**
      * Get id
@@ -174,6 +180,10 @@ class Issue
      *  Absolute path.
      */
     protected function getUploadAbsolutePath(){
+        
+        //$this->logger->info(__DIR__ );
+        //$this->logger->info('test');
+        //echo print (__DIR__ . '/web/' . $this->getUploadPath());
         return __DIR__ . '/../../../../web/' . $this->getUploadPath();
     }
 
@@ -184,7 +194,7 @@ class Issue
      *  Absolute path
      * 
      */
-    public fuction getCoverWeb(){
+    public function getCoverWeb(){
         return NULL === $this->getCover()
                     ? NULL
                     : $this->getUploadPath() . '/' . $this->getCover();
@@ -200,7 +210,9 @@ class Issue
      * Set file.
      * @param Symfony\Component\HttpFoundation\File\UploadedFile $file     */
     public function setFile(UploadedFile $file = NULL) {
-        $this->file;
+        //echo print_r($file);
+        $this->file = $file;
+        return $this->file;
     }
 
     /**
@@ -215,10 +227,11 @@ class Issue
      * Upload a Cover file.
      */
     public function upload(){
+        //$this->logger->info($this->getFile());
         if (NULL === $this->getFile()){
             return;
         } 
-        $filename = $this->getFile())->getClientOriginalName();
+        $filename = $this->getFile()->getClientOriginalName();
         // Move the uploaded file to the target directory using original name
         $this->getFile()->move(
             $this->getUploadAbsolutePath(),
